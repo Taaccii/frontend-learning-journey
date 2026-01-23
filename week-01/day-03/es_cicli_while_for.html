@@ -17,6 +17,28 @@
         alert(`number ${i}`);
         i++;
       }
+
+      // ES.3 Scrivi un ciclo che richieda (tramite prompt) un numero maggiore di 100.
+      //      Se l’utente inserisce un numero non valido – chiedete di inserirlo nuovamente.
+
+      let userNumber;
+      do {
+        userNumber = prompt('Inserisci un numero maggiore di 100', '');
+      } while (userNumber <= 100 && userNumber);
+
+      // ES.4 Mostra i numeri primi.
+
+      let n = 10;
+
+      numeroPrimo:
+      for (let i = 2; i <= n; i++) {
+        for (let j = 2; j < i; j++) {
+            if (i % j == 0) continue numeroPrimo;
+        }
+
+        alert(i);
+      }
+
     </script>
   </head>
   <body></body>
