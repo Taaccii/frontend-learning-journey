@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head> </head>
+  <body>
+    <script>
+      // ES.1 Scrivi una condizione if per controllare che age sia compresa tra 14 e 90 estremi inclusi.
+
+      if (age >= 14 && age <= 90) {
+      }
+
+      // ES.2 Scrivi una condizione if che controlli la variabile age; questa NON deve essere compresa tra 14 e 90 (inclusi).
+      // Scrivi due varianti: la prima utilizzando NOT !, la seconda – senza.
+
+      if (!(age >= 14 && age <= 90)) {
+      }
+
+      if (age < 14 || age > 90) {
+      }
+
+      // ES.3 Scrivi il codice che richiede un login tramite prompt.
+
+      let userName = prompt("Who's there?", 'Insert username');
+
+      if (userName == 'Admin') {
+        let password = prompt('Insert password', 'Password');
+
+        if (password == 'TheMaster') {
+          alert('Welcome');
+        } else if (password === '' || password === null) {
+          alert('Canceled');
+        } else {
+          alert('Wrong Password');
+        }
+      } else if (userName === '' || userName === null) {
+        alert('Canceled');
+      } else {
+        alert("I don't know you");
+      }
+    </script>
+  </body>
+</html>
