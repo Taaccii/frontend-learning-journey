@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Taaccii/frontend-learning-journey#readme",
   "devDependencies": {
-    "eslint": "^9.39.2"
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8"
   }
 }
