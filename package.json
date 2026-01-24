@@ -1,0 +1,24 @@
+{
+  "name": "frontend-learning-journey",
+  "version": "1.0.0",
+  "description": "My journey from zero to Frontend Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taaccii/frontend-learning-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Taaccii/frontend-learning-journey/issues"
+  },
+  "homepage": "https://github.com/Taaccii/frontend-learning-journey#readme",
+  "devDependencies": {
+    "eslint": "^9.39.2"
+  }
+}
