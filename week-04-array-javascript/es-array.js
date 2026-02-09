@@ -126,3 +126,62 @@ alert( sorted ); // CSS, HTML, JavaScript
 alert( arr ); // HTML, JavaScript, CSS (nessuna modifica)
 */
 
+
+function copySorted(arr) {
+  return arr.splice().sort();
+}
+
+let arr = ["HTML", "JavaScript", "CSS"];
+let sorted = copySorted(arr);
+
+alert(sorted);
+alert(arr);
+
+
+/*
+Rimescolare un array:
+
+Scrivete una funzione shuffle(array) che rimescoli (riordini casualmente) gli elementi di un array.
+
+Esecuzioni multiple di shuffle dovrebbero portare a diversi ordinamenti degli elementi. Ad esempio:
+
+let arr = [1, 2, 3];
+
+shuffle(arr);
+// arr = [3, 2, 1]
+
+shuffle(arr);
+// arr = [2, 1, 3]
+
+shuffle(arr);
+// arr = [3, 1, 2]
+// ...
+Tutti gli elementi ordinati dovrebbero avere una probabilità identica. Ad esempio, [1,2,3] può essere riordinato come [1,2,3] o [1,3,2] o [3,1,2] etc;
+ognuno dei casi deve avere la stessa probabilità.
+*/
+
+
+
+
+
+
+/*
+Filtrare un array per ottenere elementi unici
+
+Abbiamo un array arr.
+
+Create una funzione unique(arr) che ritorni un array con elementi unici.
+
+Ad esempio:
+
+function unique(arr) {
+  /* your code 
+}
+
+let strings = ["Hare", "Krishna", "Hare", "Krishna",
+  "Krishna", "Krishna", "Hare", "Hare", ":-O"
+];
+
+alert( unique(strings) ); // Hare, Krishna, :-O
+*/
+
