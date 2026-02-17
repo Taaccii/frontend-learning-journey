@@ -90,3 +90,42 @@ function getAverageAge(arr) {
 }
 
 alert( getAverageAge(arr) ); // (25 + 30 + 29) / 3 = 28
+
+
+/* 
+Immaginiamo di ricevere un array di utenti nella forma {id:..., name:..., age... }.
+
+Scrivi una funzione groupById(arr) che ricavi un oggetto da esso,
+con id come chiave e gli elementi dell’array come valori
+
+Una funzione simile è molto utile quando si lavora con dati provenienti da un server.
+
+In questo esercizio sappiamo che id è unico. Non ci saranno due array con lo stesso id.
+
+Per favore utilizza il metodo .reduce nella soluzione.
+*/
+
+let users = [
+  {id: 'john', name: "John Smith", age: 20},
+  {id: 'ann', name: "Ann Smith", age: 24},
+  {id: 'pete', name: "Pete Peterson", age: 31},
+];
+
+let usersById = groupById(users);
+
+function groupById(array) {
+  return array.reduce((obj, value) => {
+    obj[value.id] = value;
+    return obj;
+  }, {})
+}
+
+/*
+// dopo la chiamata dovremmo avere:
+
+usersById = {
+  john: {id: 'john', name: "John Smith", age: 20},
+  ann: {id: 'ann', name: "Ann Smith", age: 24},
+  pete: {id: 'pete', name: "Pete Peterson", age: 31},
+}
+*/
