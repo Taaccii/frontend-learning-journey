@@ -1,4 +1,4 @@
-# 🚀 Fullstack Learning Journey — Alessandro Barletta
+# 🚀 Full Stack Learning Journey — Alessandro Barletta
 
 > Diario pubblico del mio percorso di riqualificazione professionale verso lo sviluppo web Full Stack.
 > Ogni settimana documento cosa ho studiato, le sfide affrontate e i progetti completati.
