@@ -45,7 +45,7 @@ Mi chiamo Alessandro Barletta, alias @Taaccii. Dopo oltre 10 anni di lavoro in a
 |------|---------|----------------------|-----|--------|---------|
 | [01](#week-01) | 22-25/01 | JavaScript Basics, JS.info | ~28h | 🔥4gg | — |
 | [02](#week-02) | 27-31/01 | HTML/CSS, Flexbox, Git | 31h | 🔥11gg | [Recipes Website](https://github.com/Taaccii/odin-recipes) |
-| [03](#week-03) | 03-08/02 | JavaScript, Problem Solving, Node.js | 33h | 🔥19gg | [Rock Paper Scissors](https://github.com/Taaccii/rock-paper-scissors) · Landing Page |
+| [03](#week-03) | 03-08/02 | JavaScript, Problem Solving, Node.js | 33h | 🔥19gg | [Rock Paper Scissors](https://github.com/Taaccii/rock-paper-scissors) · [Landing Page](https://github.com/Taaccii/landing-page)
 | [04](#week-04) | 09-15/02 | Arrays, DOM, Event Listeners | 42h | 🔥26gg | [Etch-a-Sketch](https://github.com/Taaccii/etch-a-sketch) · [RPS UI](https://github.com/Taaccii/rock-paper-scissors) |
 | [05](#week-05) | 16-22/02 | Objects, Calculator Project | 32h | 🔥33gg | [Calculator T-3000](https://github.com/Taaccii/calculator-project) |
 | [06](#week-06) | 23/02-01/03 | Full Stack Path, CSS Intermedio, Figma | 28h | 🔥40gg | CV · LinkedIn · Social Preview |
@@ -63,15 +63,22 @@ Calcolatrice funzionale con chained operations, percentuale, keyboard support, r
 
 ### Etch-a-Sketch
 **Stack:** HTML · CSS · JavaScript  
-**Repository:** [etch-a-sketch](https://github.com/Taaccii/etch-a-sketch)  
+**Repository:** [etch-a-sketch](https://github.com/Taaccii/etch-a-sketch) · **Live Demo:** [taaccii.github.io/etch-a-sketch](https://taaccii.github.io/etch-a-sketch)    
 Applicazione di disegno interattiva con griglia dinamica, modalità rainbow, opacity progressiva e drag-to-draw.
 
 ---
 
 ### Rock Paper Scissors
 **Stack:** HTML · CSS · JavaScript  
-**Repository:** [rock-paper-scissors](https://github.com/Taaccii/rock-paper-scissors)  
+**Repository:** [rock-paper-scissors](https://github.com/Taaccii/rock-paper-scissors) · **Live Demo:** [taaccii.github.io/rock-paper-scissors](https://taaccii.github.io/rock-paper-scissors)  
 Gioco interattivo con UI animata, sistema di punteggio e responsive design.
+
+---
+
+### Landing Page
+**Stack:** HTML · CSS  
+**Repository:** [landing-page](https://github.com/Taaccii/landing-page) · **Live Demo:** [taaccii.github.io/landing-page](https://taaccii.github.io/landing-page)  
+Landing page con layout Flexbox, responsive design e stile grafico personalizzato.
 
 ---
 
