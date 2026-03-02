@@ -9,7 +9,7 @@ Mi chiamo Alessandro Barletta, alias @Taaccii. Dopo oltre 10 anni di lavoro in a
 
 📧 taccidev@gmail.com  
 🐙 [github.com/Taaccii](https://github.com/Taaccii)  
-💼 [LinkedIn](https://www.linkedin.com/in/alessandrobarletta)
+💼 [LinkedIn](https://www.linkedin.com/in/alessandro-barletta-dev)
 
 ---
 
