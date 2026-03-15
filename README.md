@@ -31,10 +31,10 @@ Mi chiamo Alessandro Barletta, alias @Taaccii. Dopo oltre 10 anni di lavoro in a
 | Metrica | Valore |
 |--------|--------|
 | 🗓️ Inizio percorso | 22 Gennaio 2026 |
-| 📅 Settimane completate | 6 |
-| ⏱️ Ore totali di studio | ~194h |
-| 🔥 Streak attuale | 40 giorni |
-| 🏗️ Progetti completati | 5 |
+| 📅 Settimane completate | 8 |
+| ⏱️ Ore totali di studio | ~255h |
+| 🔥 Streak attuale | 54 giorni |
+| 🏗️ Progetti completati | 7 |
 | 📚 Fonte principale | The Odin Project |
 
 ---
@@ -45,14 +45,23 @@ Mi chiamo Alessandro Barletta, alias @Taaccii. Dopo oltre 10 anni di lavoro in a
 |------|---------|----------------------|-----|--------|---------|
 | [01](#week-01) | 22-25/01 | JavaScript Basics, JS.info | ~28h | 🔥4gg | — |
 | [02](#week-02) | 27-31/01 | HTML/CSS, Flexbox, Git | 31h | 🔥11gg | [Recipes Website](https://github.com/Taaccii/odin-recipes) |
-| [03](#week-03) | 03-08/02 | JavaScript, Problem Solving, Node.js | 33h | 🔥19gg | [Rock Paper Scissors](https://github.com/Taaccii/rock-paper-scissors) · [Landing Page](https://github.com/Taaccii/landing-page)
+| [03](#week-03) | 03-08/02 | JavaScript, Problem Solving, Node.js | 33h | 🔥19gg | [Rock Paper Scissors](https://github.com/Taaccii/rock-paper-scissors) · [Landing Page](https://github.com/Taaccii/landing-page) |
 | [04](#week-04) | 09-15/02 | Arrays, DOM, Event Listeners | 42h | 🔥26gg | [Etch-a-Sketch](https://github.com/Taaccii/etch-a-sketch) · [RPS UI](https://github.com/Taaccii/rock-paper-scissors) |
 | [05](#week-05) | 16-22/02 | Objects, Calculator Project | 32h | 🔥33gg | [Calculator T-3000](https://github.com/Taaccii/calculator-project) |
 | [06](#week-06) | 23/02-01/03 | Full Stack Path, CSS Intermedio, Figma | 28h | 🔥40gg | CV · LinkedIn · Social Preview |
+| [07](#week-07) | 02-08/03 | CSS Avanzato, Selettori, Positioning, Forms pt.1 | 41h | 🔥47gg | Gestionale: GitHub Releases |
+| [08](#week-08) | 09-15/03 | Forms HTML, Validation, Sign-Up Form | 20h | 🔥54gg | [Sign-Up Form](https://github.com/Taaccii/sign-up-form) |
 
 ---
 
 ## 🏗️ Progetti Completati
+
+### Sign-Up Form
+**Stack:** HTML · CSS · Google Fonts  
+**Repository:** [sign-up-form](https://github.com/Taaccii/sign-up-form) · **Live Demo:** [taaccii.github.io/sign-up-form](https://taaccii.github.io/sign-up-form)  
+Form di registrazione con layout a due colonne, sticky sidebar, validazione nativa e styling personalizzato.
+
+---
 
 ### Calculator — T-3000
 **Stack:** HTML · CSS · JavaScript  
@@ -63,7 +72,7 @@ Calcolatrice funzionale con chained operations, percentuale, keyboard support, r
 
 ### Etch-a-Sketch
 **Stack:** HTML · CSS · JavaScript  
-**Repository:** [etch-a-sketch](https://github.com/Taaccii/etch-a-sketch) · **Live Demo:** [taaccii.github.io/etch-a-sketch](https://taaccii.github.io/etch-a-sketch)    
+**Repository:** [etch-a-sketch](https://github.com/Taaccii/etch-a-sketch) · **Live Demo:** [taaccii.github.io/etch-a-sketch](https://taaccii.github.io/etch-a-sketch)  
 Applicazione di disegno interattiva con griglia dinamica, modalità rainbow, opacity progressiva e drag-to-draw.
 
 ---
@@ -164,16 +173,36 @@ Prima settimana del Full Stack Path. SVG, Emmet, HTML Tables, CSS intermedio con
 
 ---
 
+### Week 07
+**Periodo:** 02-08 Marzo 2026 · **Fonte:** The Odin Project · **Ore:** 41h · **Streak:** 🔥47gg
+
+Settimana intensa e variegata — CSS a tutto tondo con unità, text styling, selettori avanzati, positioning e custom properties. Miglioramenti importanti al Gestionale con GitHub Releases automatizzate e prime candidature di lavoro.
+
+**Concetti:** CSS units, text styling, selettori avanzati, positioning, custom properties, funzioni CSS, CSS Diner  
+**Extra:** Gestionale: GitHub Releases · LinkedIn aggiornato · Prime candidature lavoro  
+📁 [README completo →](./week-07-css-intermedio/README.md)
+
+---
+
+### Week 08
+**Periodo:** 09-15 Marzo 2026 · **Fonte:** The Odin Project · **Ore:** 20h · **Streak:** 🔥54gg
+
+Settimana segnata da eventi importanti — buone notizie dall'ospedale, nuovo lavoro trovato e periodo familiare impegnativo. Nonostante le ore ridotte, completati i form HTML, le validation e il progetto Sign-Up Form. Da settimana prossima nuovo ritmo: lavoro di giorno, studio di sera.
+
+**Concetti:** Form controls, form styling, form validation, `:user-invalid`, `pattern`, sticky sidebar, `::before` con `background-image`  
+**Progetto:** Sign-Up Form  
+📁 [README completo →](./week-08-forms-signup/README.md)
+
+---
+
 ## 🎯 Obiettivi Futuri
 
-- [ ] Completare CSS intermedio (unità, custom properties, animazioni)
 - [ ] CSS Grid
 - [ ] JavaScript avanzato (closures, promises, async/await)
 - [ ] React
 - [ ] TypeScript
 - [ ] Node.js + Express
 - [ ] Primo progetto Full Stack completo
-- [ ] Imparare Figma per mockup e design UI
 
 ---
 
@@ -185,4 +214,4 @@ Studio ogni giorno, anche solo per un'ora, per mantenere la streak e il ritmo. P
 
 ---
 
-**Ultimo aggiornamento:** 01/03/2026 · **Streak:** 🔥 40 giorni consecutivi
+**Ultimo aggiornamento:** 15/03/2026 · **Streak:** 🔥 54 giorni consecutivi
